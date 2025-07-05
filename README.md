@@ -1,3 +1,5 @@
+! (https://yoshi-webstudio.com/wp-content/uploads/202…%E3%83%83%E3%83%88-2025-07-05-174205-1536x729.png)  
+
 # 架空Cafe  
 
 ## 【URL】  
