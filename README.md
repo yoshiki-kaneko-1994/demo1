@@ -1,4 +1,5 @@
-![スクリーンショット 2025-07-05 174205](https://github.com/user-attachments/assets/ce5f3085-870d-4171-a166-25c9fd5a3611 width='400px')  
+![スクリーンショット 2025-07-05 174205]( )  
+<img src='https://github.com/user-attachments/assets/ce5f3085-870d-4171-a166-25c9fd5a3611' width='400px'>
 
 # 架空Cafe  
 
