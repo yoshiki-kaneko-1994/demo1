@@ -1,4 +1,4 @@
-<img src='https://github.com/user-attachments/assets/ce5f3085-870d-4171-a166-25c9fd5a3611' alt='架空Cafeの画像' width='400px' center>
+<img src='https://github.com/user-attachments/assets/ce5f3085-870d-4171-a166-25c9fd5a3611' alt='架空Cafeの画像' width='800px'>
 
 # 架空Cafe  
 
