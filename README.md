@@ -1,4 +1,4 @@
-! (https://yoshi-webstudio.com/wp-content/uploads/202…%E3%83%83%E3%83%88-2025-07-05-174205-1536x729.png)  
+![スクリーンショット 2025-07-05 174205](https://github.com/user-attachments/assets/ce5f3085-870d-4171-a166-25c9fd5a3611)  
 
 # 架空Cafe  
 
