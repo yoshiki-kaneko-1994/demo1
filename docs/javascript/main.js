@@ -36,13 +36,15 @@
     element.style.opacity = opacity;
   }
 
-  window.addEventListener("scroll", () => {
-    const rect = document.querySelector("header").getBoundingClientRect();
-
-    if (rect.bottom < 0) {
-      topStyle(top, "0", "1");
-    } else {
-      topStyle(top, "160", "0");
-    }
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) {
+        topStyle(top, "0", "1");
+      } else {
+        topStyle(top, "160", "0");
+      }
+    });
   });
+
+  observer.observe(document.querySelector('header'));
 }
