@@ -1,0 +1,15 @@
+// メディアクエリー
+$max-width: 799px;
+
+@mixin to-mobile {
+  @media (max-width: $max-width) {
+    @content;
+  }
+}
+
+// sectionなどの章ごとに使う(headerとfooterには使わない)
+@mixin chapter {
+  padding: 2rem;
+  margin: 2rem auto 0;
+  max-width: 1000px;
+}

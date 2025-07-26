@@ -1,0 +1,76 @@
+:root {
+  --main-color: hsl(20, 60%, 55%);
+  --sub-color: #fff;
+  --line-height: 1.6;
+}
+
+body {
+  margin: 0;
+  background: var(--main-color);
+  color: var(--sub-color);
+  font-family: "Shippori Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+  font-size: 2.4rem;
+  font-weight: normal;
+  text-align: center;
+  text-decoration: underline 2px;
+  text-underline-offset: 16px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: normal;
+}
+
+p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  font-size: 1.2rem;
+}
+
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+  font-size: 1.4rem;
+}
+
+a {
+  text-decoration: none;
+  color: var(--sub-color);
+}
+a:hover {
+  opacity: 0.6;
+  transition: opacity 0.4s;
+}
+a:active {
+  opacity: 0.4;
+  transition: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  vertical-align: bottom;
+  object-fit: cover;
+}/*# sourceMappingURL=base.css.map */
